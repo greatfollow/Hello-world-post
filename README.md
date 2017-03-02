@@ -1,4 +1,4 @@
 # Hello-world-post
-My new in imr study
-A amazing things in my work
-Read new archive.
+My new in imr study\n
+A amazing things in my work\n
+Read new archive.\n
